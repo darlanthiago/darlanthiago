@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darlan Thiago</h1>
 <h3 align="center">
-  I work with PHP, JavaScript, Linux and Network Infrastructure and DevOps 👨🏽‍💻
+  I work with PHP, JavaScript, AWS and DevOps 👨🏽‍💻
 </h3>
 
 <br/>
 
-<h2 align="left">⚡ Connect with me:</h2>
+<h2 align="left">😎 Connect with me: </h2>
 <br/>
 <p align="left">
   <a href="https://linkedin.com/in/darlan-thiago" target="blank"
@@ -38,7 +38,7 @@
 
 <h2 align="left">🚀💻 Technologies & Tools: </h2>
 <br/>
-<p align="left">
+<p>
   <a href="https://aws.amazon.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
@@ -139,6 +139,8 @@
 
 <br>
 
+<h2 align="left">⚡ GitHub Stats: </h2>
+<br/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=darlanthiago&count_private=true&show_icons=true&theme=blueberry" />
 </p>
