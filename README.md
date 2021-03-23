@@ -141,9 +141,7 @@
 
 <h2 align="left">⚡ GitHub Stats: </h2>
 <br/>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=darlanthiago&count_private=true&show_icons=true&theme=blueberry" />
-</p>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanthiago&langs_count=6&layout=compact&theme=blueberry" />
+<p align="left" >
+  <img  src="https://github-readme-stats.vercel.app/api?username=darlanthiago&count_private=true&show_icons=true&theme=blueberry" height="180"/>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanthiago&langs_count=6&layout=compact&theme=blueberry" height="180"/>
 </p>
