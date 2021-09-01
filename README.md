@@ -20,7 +20,7 @@
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="instagram"
   /></a>
-<a href="https://telegram.me/darlanthiago" target="_blank" rel="noopener"
+<!-- <a href="https://telegram.me/darlanthiago" target="_blank" rel="noopener"
     ><img
       align="center"
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
@@ -31,7 +31,7 @@
       align="center"
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
       alt="wpp"
-  /></a>
+  /></a> -->
 </p>
 
 <br/>
