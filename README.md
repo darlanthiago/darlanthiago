@@ -21,9 +21,3 @@ Desenvolvedor Full-Stack focado em Front-end com mais de 5 anos de experiência.
       alt="linkedin"
 /></a>
 </p>
-
-## GitHub Stats
-<p align="left" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=darlanthiago&count_private=true&show_icons=true&theme=blueberry" height="180"/>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlanthiago&langs_count=6&layout=compact&theme=blueberry" height="180"/>
-</p>
